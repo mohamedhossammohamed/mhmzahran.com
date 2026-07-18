@@ -48,10 +48,10 @@ export default function HeroPhoto() {
       <div className="photo-tilt" ref={tiltRef}>
         <div className="photo-float">
           <Image
-            src="/headshot.jpg"
+            src="/mhmzahran.com/headshot.jpg"
             alt="Portrait of Mohamed Hossam Zahran"
             width={360}
-            height={480}
+            height={320}
             priority
             unoptimized
           />
